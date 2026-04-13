@@ -20,4 +20,4 @@ Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para 
 * assets/: Imagens e ícones utilizados.
 
 ## 🔗 Link para Visualização
-Acesse o site ao vivo: [Link da sua Vercel aqui]
+Acesse o site ao vivo: [https://portfolio-blush-seven-22.vercel.app/]
