@@ -1,6 +1,6 @@
 # 🚀 Portfólio Profissional | Claudio Murilo
 
-Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para centralizar minhas experiências, projetos e demonstrar minha evolução técnica, com foco especial em tecnologias de Backend.
+Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para centralizar minhas experiências, projetos e demonstrar minha evolução técnica, com foco especial em tecnologias de Front-end.
 
 ## 🛠️ Tecnologias e Ferramentas
 * Front-end: HTML5, CSS3 (layouts responsivos com Flexbox).
